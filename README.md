@@ -1,4 +1,4 @@
-You said:
+
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
