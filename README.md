@@ -16,7 +16,7 @@
     
 
 <!-- Image -->
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
+<img src="https://www.freepik.com/premium-vector/internet-icon-technology-vector-communication-illustration-business-web-network-online-com_255488288.htm#from_element=cross_selling__vector" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
 
 
 
