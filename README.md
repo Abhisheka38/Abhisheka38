@@ -1,17 +1,23 @@
-
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
-<h3 align="center">A passionate IT Student| Exploring the Boundless World of Technology</h3>
+<h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" />
+</p>
 
-- 🌱 I’m currently learning **MERN**
-- 🎓 I'm undergradute at **SLIIT**
-- 💬 Ask me about **Web Development|OOC**
+<!-- Right-aligned boxed image -->
+<div align="right" style="border: 2px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #fffbea; display: inline-block;">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" />
+</div>
 
-- 📫 How to reach me **nuwaniabhisheka@gmail.com**
+<ul>
+  <li>🌱 I’m currently learning <b>MERN</b></li>
+  <li>🎓 I'm undergraduate at <b>SLIIT</b></li>
+  <li>💬 Ask me about <b>Web Development | OOC</b></li>
+  <li>📫 How to reach me <b>nuwaniabhisheka@gmail.com</b></li>
+  <li>⚡ Fun fact <b>Call me As Abhi</b></li>
+</ul>
 
-- ⚡ Fun fact **Call me As Abhi**
-<img align="right" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" />
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nuwani abhisheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwani abhisheka" height="30" width="40" /></a>
