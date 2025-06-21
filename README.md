@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" /> </p>
 
-- 🌱 I’m currently learning **OOP with Java**
-- 🎓 I'm undergradute at SLIIT
+- 🌱 I’m currently learning **MERN**
+- 🎓 I'm undergradute at **SLIIT**
 - 💬 Ask me about **Web Development|OOC**
 
 - 📫 How to reach me **nuwaniabhisheka@gmail.com**
