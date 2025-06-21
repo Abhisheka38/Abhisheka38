@@ -16,7 +16,7 @@
     
 
 <!-- Image -->
-<img src="https://www.freepik.com/premium-photo/modern-social-media-developing-future-trend-social-media_261208395.htm#from_element=cross_selling__photo" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
+<img src="https://nexacu.com/insights-blog/javascript-guide-for-contemporary-web-development-nexacu/" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
 
 
 
