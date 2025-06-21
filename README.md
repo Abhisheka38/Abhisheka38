@@ -16,7 +16,7 @@
     
 
 <!-- Image -->
-<img src="https://nexacu.com/insights-blog/javascript-guide-for-contemporary-web-development-nexacu/" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
+<img src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
 
 
 
