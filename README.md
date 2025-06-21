@@ -2,18 +2,24 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<!-- Text content -->
-<ul align="left">
-  <li>🌱 I’m currently learning <strong>MERN</strong></li>
-  <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
-  <li>💬 Ask me about <strong>Full-stack development</strong></li>
-  <li>📫 How to reach me <strong>nuwaniabhisheka@gmail.com</strong></li>
-  <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
-</ul>
-
-    
-<!-- Image -->
-<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" align="right" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" /> 
+<table>
+  <tr>
+    <td>
+      <!-- Text content -->
+      <ul align="left">
+        <li>🌱 I’m currently learning <strong>MERN</strong></li>
+        <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
+        <li>💬 Ask me about <strong>Full-stack development</strong></li>
+        <li>📫 How to reach me <strong>nuwaniabhisheka@gmail.com</strong></li>
+        <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
+      </ul>
+    </td>
+    <td>
+      <!-- Image -->
+      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" align="right" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left"> 🔗Connect With Me</h3>
