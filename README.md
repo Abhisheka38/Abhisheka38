@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
+<div align="center">
+  <p style="font-family: monospace; font-size: 18px; white-space: nowrap; overflow: hidden; border-right: 2px solid; width: fit-content; animation: typing 4s steps(50, end), blink .75s step-end infinite;">
+    ✨ I love crafting beautiful code across the Full-Stack
+  </p>
+</div>
+
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td width="65%">
