@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<!-- Flex container with box styling -->
-<div style="display: flex; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; max-width: 800px; margin: auto; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+<!-- Wrapper Box -->
+<div style="
+  display: flex;
+  max-width: 800px;
+  margin: 30px auto;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+">
 
-  <!-- Left side: Text content -->
+  <!-- Left Side: Text Content -->
   <div style="flex: 1; padding: 20px;">
-    <ul>
+    <ul style="list-style: none; padding: 0; margin: 0; font-size: 16px; line-height: 1.8;">
       <li>🌱 I’m currently learning <strong>MERN</strong></li>
       <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
       <li>💬 Ask me about <strong>Full-stack development</strong></li>
@@ -15,17 +23,19 @@
     </ul>
   </div>
 
-  <!-- Vertical divider -->
-  <div style="width: 1px; background-color: #ccc;"></div>
+  <!-- Vertical Line -->
+  <div style="width: 2px; background-color: #ccc;"></div>
 
-  <!-- Right side: Image -->
-  <div style="flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px;">
-    <img src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" 
-         width="250" 
-         style="border-radius: 8px;" />
+  <!-- Right Side: Image -->
+  <div style="flex: 1; display: flex; align-items: center; justify-content: center; background-color: #f9f9f9;">
+    <img 
+      src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" 
+      alt="JavaScript Tools" 
+      style="max-width: 90%; border-radius: 8px;" />
   </div>
 
 </div>
+
 
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
