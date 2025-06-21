@@ -10,8 +10,8 @@
 - 📫 How to reach me **nuwaniabhisheka@gmail.com**
 
 - ⚡ Fun fact **Call me As Abhi**
-<div class="right">
-    <img src="https://i.imgur.com/O3Vqg8U.png" alt="JavaScript Network Illustration">
+<img src="https://raw.githubusercontent.com/username/repo-name/main/images/image.png" />
+
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nuwani abhisheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwani abhisheka" height="30" width="40" /></a>
