@@ -5,18 +5,38 @@
   <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" />
 </p>
 
-<!-- Right-aligned boxed image -->
-<div align="right" style="border: 2px solid #e5e7eb; border-radius: 12px; padding: 16px; background: #fffbea; display: inline-block;">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" />
+<!-- Main box with flex layout -->
+<div style="
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 24px;
+  background: #fffbea;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+">
+
+  <!-- Left part: Info -->
+  <div style="flex: 1; min-width: 250px;">
+    <ul>
+      <li>🌱 I’m currently learning <b>MERN</b></li>
+      <li>🎓 I'm undergraduate at <b>SLIIT</b></li>
+      <li>💬 Ask me about <b>Web Development | OOC</b></li>
+      <li>📫 How to reach me <b>nuwaniabhisheka@gmail.com</b></li>
+      <li>⚡ Fun fact <b>Call me As Abhi</b></li>
+    </ul>
+  </div>
+
+  <!-- Right part: Image -->
+  <div style="flex: 1; display: flex; justify-content: center; min-width: 250px;">
+    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" style="border-radius: 8px;" />
+  </div>
+
 </div>
 
-<ul>
-  <li>🌱 I’m currently learning <b>MERN</b></li>
-  <li>🎓 I'm undergraduate at <b>SLIIT</b></li>
-  <li>💬 Ask me about <b>Web Development | OOC</b></li>
-  <li>📫 How to reach me <b>nuwaniabhisheka@gmail.com</b></li>
-  <li>⚡ Fun fact <b>Call me As Abhi</b></li>
-</ul>
 
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
