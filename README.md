@@ -3,7 +3,7 @@
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 <!-- Text content -->
-<ul>
+<ul align="left">
   <li>🌱 I’m currently learning <strong>MERN</strong></li>
   <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
   <li>💬 Ask me about <strong>Full-stack development</strong></li>
@@ -12,9 +12,8 @@
 </ul>
 
     
-
 <!-- Image -->
-<img src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" /> 
+<img src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" align="right" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" /> 
 
 
 <h3 align="left"> 🔗Connect With Me</h3>
