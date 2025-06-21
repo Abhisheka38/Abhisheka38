@@ -1,31 +1,17 @@
+
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
-<h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
+<h3 align="center">A passionate IT Student| Exploring the Boundless World of Technology</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" /> </p>
 
-<!-- Wrapper with flex display -->
-<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-  
-  <!-- Left side: Text -->
-  <div style="flex: 1; min-width: 250px;">
-    <ul>
-      <li>🌱 I’m currently learning <strong>MERN</strong></li>
-      <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
-      <li>💬 Ask me about <strong>Web Development | OOC</strong></li>
-      <li>📫 How to reach me <a href="mailto:nuwaniabhisheka@gmail.com">nuwaniabhisheka@gmail.com</a></li>
-      <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
-    </ul>
-  </div>
+- 🌱 I’m currently learning **MERN**
+- 🎓 I'm undergradute at **SLIIT**
+- 💬 Ask me about **Web Development|OOC**
 
-  <!-- Right side: Image -->
-  <div style="flex: 1; min-width: 250px;">
-    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Tech Illustration" style="max-width: 100%; border-radius: 8px;">
-  </div>
+- 📫 How to reach me **nuwaniabhisheka@gmail.com**
 
-</div>
-
+- ⚡ Fun fact **Call me As Abhi**
+<img align="right" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" />
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nuwani abhisheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nuwani abhisheka" height="30" width="40" /></a>
