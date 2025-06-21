@@ -1,40 +1,20 @@
+You said:
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<!-- Wrapper Box -->
-<div style="
-  display: flex;
-  max-width: 800px;
-  margin: 30px auto;
-  border: 2px solid #ddd;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-">
+<!-- Text content -->
+<ul>
+  <li>🌱 I’m currently learning <strong>MERN</strong></li>
+  <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
+  <li>💬 Ask me about <strong>Full-stack development</strong></li>
+  <li>📫 How to reach me <strong>nuwaniabhisheka@gmail.com</strong></li>
+  <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
+</ul>
 
-  <!-- Left Side: Text Content -->
-  <div style="flex: 1; padding: 20px;">
-    <ul style="list-style: none; padding: 0; margin: 0; font-size: 16px; line-height: 1.8;">
-      <li>🌱 I’m currently learning <strong>MERN</strong></li>
-      <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
-      <li>💬 Ask me about <strong>Full-stack development</strong></li>
-      <li>📫 How to reach me <strong>nuwaniabhisheka@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
-    </ul>
-  </div>
+    
 
-  <!-- Vertical Line -->
-  <div style="width: 2px; background-color: #ccc;"></div>
-
-  <!-- Right Side: Image -->
-  <div style="flex: 1; display: flex; align-items: center; justify-content: center; background-color: #f9f9f9;">
-    <img 
-      src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" 
-      alt="JavaScript Tools" 
-      style="max-width: 90%; border-radius: 8px;" />
-  </div>
-
-</div>
+<!-- Image -->
+<img src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" /> 
 
 
 <h3 align="left"> 🔗Connect With Me</h3>
