@@ -1,25 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
+<!-- Flex container with box styling -->
+<div style="display: flex; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; max-width: 800px; margin: auto; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
 
+  <!-- Left side: Text content -->
+  <div style="flex: 1; padding: 20px;">
+    <ul>
+      <li>🌱 I’m currently learning <strong>MERN</strong></li>
+      <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
+      <li>💬 Ask me about <strong>Full-stack development</strong></li>
+      <li>📫 How to reach me <strong>nuwaniabhisheka@gmail.com</strong></li>
+      <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
+    </ul>
+  </div>
 
+  <!-- Vertical divider -->
+  <div style="width: 1px; background-color: #ccc;"></div>
 
-<!-- Text content -->
-<ul>
-  <li>🌱 I’m currently learning <strong>MERN</strong></li>
-  <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
-  <li>💬 Ask me about <strong>Full-stack development</strong></li>
-  <li>📫 How to reach me <strong>nuwaniabhisheka@gmail.com</strong></li>
-  <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
-</ul>
+  <!-- Right side: Image -->
+  <div style="flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px;">
+    <img src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" 
+         width="250" 
+         style="border-radius: 8px;" />
+  </div>
 
-    
-
-<!-- Image -->
-<img src="https://nexacu.com/media/rt0pk3pp/illustration-of-essential-javascript-tools.jpg" width="300" style="float: right; border-radius: 8px; margin-left: 20px;" />
-
-
-
+</div>
 
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
