@@ -1,32 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" /> </p>
 
-<!-- Main box with flex layout -->
-<div style="
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  border: 2px solid #e5e7eb;
-  border-radius: 12px;
-  padding: 24px;
-  background: #fffbea;
-  margin-top: 24px;
-  margin-bottom: 24px;
-  flex-wrap: wrap;
-">
+- 🌱I’m currently learning **MERN**
 
-  <!-- Left part: Info -->
-  <div style="flex: 1; min-width: 250px;">
-    <ul>
-      <li>🌱 I’m currently learning <b>MERN</b></li>
-      <li>🎓 I'm undergraduate at <b>SLIIT</b></li>
-      <li>💬 Ask me about <b>Web Development | OOC</b></li>
-      <li>📫 How to reach me <b>nuwaniabhisheka@gmail.com</b></li>
-      <li>⚡ Fun fact <b>Call me As Abhi</b></li>
+- 🎓 I'm undergraduate at **SLIIT**
+
+- 💬 Ask me about **Full-stack development**
+
+- 📫 How to reach me **nuwaniabhisheka@gmail.com**
+
+- ⚡ Fun fact **Call me As Abhi**
     </ul>
   </div>
 
