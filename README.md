@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisheka38&label=Profile%20views&color=0e75b6&style=flat" alt="abhisheka38" /> </p>
 
 - 🌱I’m currently learning **MERN**
 
