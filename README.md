@@ -11,16 +11,11 @@
 - 📫 How to reach me **nuwaniabhisheka@gmail.com**
 
 - ⚡ Fun fact **Call me As Abhi**
-    </ul>
-  </div>
-
+    
   <!-- Right part: Image -->
   <div style="flex: 1; display: flex; justify-content: center; min-width: 250px;">
     <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" style="border-radius: 8px;" />
   </div>
-
-</div>
-
 
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
