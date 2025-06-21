@@ -2,20 +2,29 @@
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
 
-- 🌱I’m currently learning **MERN**
+<table>
+  <tr>
+    <td>
 
-- 🎓 I'm undergraduate at **SLIIT**
+<!-- Text content -->
+<ul>
+  <li>🌱 I’m currently learning <strong>MERN</strong></li>
+  <li>🎓 I'm undergraduate at <strong>SLIIT</strong></li>
+  <li>💬 Ask me about <strong>Full-stack development</strong></li>
+  <li>📫 How to reach me <strong>nuwaniabhisheka@gmail.com</strong></li>
+  <li>⚡ Fun fact <strong>Call me As Abhi</strong></li>
+</ul>
 
-- 💬 Ask me about **Full-stack development**
+    </td>
+    <td>
 
-- 📫 How to reach me **nuwaniabhisheka@gmail.com**
+<!-- Image -->
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" style="border-radius: 8px;" />
 
-- ⚡ Fun fact **Call me As Abhi**
-    
-  <!-- Right part: Image -->
-  <div style="flex: 1; display: flex; justify-content: center; min-width: 250px;">
-    <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="300" style="border-radius: 8px;" />
-  </div>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
