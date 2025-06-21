@@ -10,7 +10,7 @@
 - 📫 How to reach me **nuwaniabhisheka@gmail.com**
 
 - ⚡ Fun fact **Call me As Abhi**
-<img src="https://raw.githubusercontent.com/username/repo-name/main/images/image.png" />
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" />
 
 <h3 align="left"> 🔗Connect With Me</h3>
 <p align="left">
