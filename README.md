@@ -13,7 +13,7 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <ul style="line-height: 3; font-size: 16px;">
+      <ul style="line-height: 5; font-size: 16px;">
         <li style="margin-bottom: 10px;">🌱 I’m currently learning <strong>MERN Stack</strong></li>
         <li style="margin-bottom: 10px;">🎓 I'm an undergraduate at <strong>SLIIT</strong></li>
         <li style="margin-bottom: 10px;">💬 Ask me about <strong>Full-stack development</strong></li>
