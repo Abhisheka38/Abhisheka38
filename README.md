@@ -29,6 +29,7 @@
 
 <br/>
 
+---
 ## 📊 My Statistics
 
 <table width="100%">
