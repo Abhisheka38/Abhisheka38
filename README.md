@@ -21,7 +21,7 @@
       </ul>
     </td>
     <!-- Right: Image Section -->
-    <td width="45%" align="center" valign="middle">
+    <td width="40%" align="center" valign="middle">
       <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="320" style="border-radius: 12px;" />
     </td>
   </tr>
