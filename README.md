@@ -49,21 +49,22 @@
 
 ## 🌐 Connect with Me
 
-<div align="left" >
- 
-    <a href="https://linkedin.com/in/nuwaniabhisheka" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </a>
-    <a href="https://fb.com/nuwaniabhisheka" target="_blank" style="margin-right: 10px;">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
-    <a href="mailto:nuwaniabhisheka@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/nuwaniabhisheka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/nuwaniabhisheka" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:nuwaniabhisheka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+<br/>
 
 ---
+
 ## 🛠️ Languages and Tools
 
 <p align="left">
