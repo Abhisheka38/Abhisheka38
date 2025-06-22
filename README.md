@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=✨+I+love+crafting+beautiful+code+across+the+Full-Stack" alt="Typing SVG" />
 </div>
 
-
+<br/>
 
 <!-- Profile Section with Image and Details Side by Side -->
 <table width="100%">
   <tr>
     <!-- Left: Text Section -->
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       <ul>
         <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
         <li>🎓 I'm an undergraduate at <strong>SLIIT</strong></li>
@@ -21,13 +21,28 @@
       </ul>
     </td>
     <!-- Right: Image Section -->
-    <td width="40%" align="center" valign="middle">
-      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="320" style="border-radius: 12px;" />
+    <td width="45%" align="center" valign="middle">
+      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="280" style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
 
----
+<br/>
+
+## 📊 My Statistics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=abhisheka38&show_icons=true&theme=radical" alt="abhisheka38's GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheka38&show_icons=true&locale=en&layout=compact&theme=radical" alt="abhisheka38's Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ## 🌐 Connect with Me
 
@@ -43,7 +58,7 @@
   </a>
 </p>
 
----
+<br/>
 
 ## 🛠️ Languages and Tools
 
@@ -79,23 +94,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 </p>
-
----
-
-## 📊 My Statistics
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <!-- Replace with your actual GitHub stats link -->
-      <img src="https://github-readme-stats.vercel.app/api?username=abhisheka38&show_icons=true&theme=radical" alt="abhisheka38's GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <!-- Replace with your actual top languages link -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheka38&show_icons=true&locale=en&layout=compact&theme=radical" alt="abhisheka38's Top Languages" />
-    </td>
-  </tr>
-</table>
 
 
 
