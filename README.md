@@ -45,6 +45,8 @@
 
 <br/>
 
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -60,6 +62,8 @@
 </p>
 
 <br/>
+
+---
 
 ## 🛠️ Languages and Tools
 
