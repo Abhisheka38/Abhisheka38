@@ -11,7 +11,7 @@
 <table width="100%">
   <tr>
     <!-- Left: Text Section -->
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <ul>
         <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>   
         <li>🎓 I'm an undergraduate at <strong>SLIIT</strong></li>        
