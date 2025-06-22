@@ -13,15 +13,11 @@
     <!-- Left: Text Section -->
     <td width="55%" valign="top">
       <ul>
-        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
-        
-        <li>🎓 I'm an undergraduate at <strong>SLIIT</strong></li>
-        
+        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>   
+        <li>🎓 I'm an undergraduate at <strong>SLIIT</strong></li>        
         <li>💬 Ask me about <strong>Full-stack development</strong></li>
-        
         <li>📫 How to reach me: <strong>nuwaniabhisheka@gmail.com</strong></li>
-        
-        <li>⚡ Fun fact: <strong>Call me Abhi</strong></li>
+        <li>⚡Fun fact: <strong>Call me Abhi</strong></li>
       </ul>
     </td>
     <!-- Right: Image Section -->
