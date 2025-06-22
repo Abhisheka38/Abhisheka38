@@ -45,7 +45,10 @@
 
 <br/>
 
-<!-- Connect with Me Section -->
+---
+
+## 🌐 Connect with Me
+
 <div align="center" style="margin-bottom: 30px;">
   <h2 style="color:#f9d71c; font-weight: normal; margin-bottom: 15px;">🌐 Connect with Me</h2>
   <p>
@@ -61,6 +64,7 @@
   </p>
 </div>
 
+---
 ## 🛠️ Languages and Tools
 
 <p align="left">
