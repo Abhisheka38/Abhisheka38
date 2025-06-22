@@ -13,12 +13,12 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <ul>
-        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>
-        <li>🎓 I'm an undergraduate at <strong>SLIIT</strong></li>
-        <li>💬 Ask me about <strong>Full-stack development</strong></li>
-        <li>📫 How to reach me: <strong>nuwaniabhisheka@gmail.com</strong></li>
-        <li>⚡ Fun fact: <strong>Call me "Abhi"</strong></li>
+      <ul style="line-height: 2; font-size: 16px;">
+        <li style="margin-bottom: 10px;">🌱 I’m currently learning <strong>MERN Stack</strong></li>
+        <li style="margin-bottom: 10px;">🎓 I'm an undergraduate at <strong>SLIIT</strong></li>
+        <li style="margin-bottom: 10px;">💬 Ask me about <strong>Full-stack development</strong></li>
+        <li style="margin-bottom: 10px;">📫 How to reach me: <strong>nuwaniabhisheka@gmail.com</strong></li>
+        <li style="margin-bottom: 10px;">⚡ Fun fact: <strong>Call me "Abhi"</strong></li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -26,6 +26,7 @@
     </td>
   </tr>
 </table>
+
 
 ---
 
