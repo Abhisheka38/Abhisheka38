@@ -30,7 +30,7 @@
 <br/>
 
 ---
-## 📊 My Statistics
+**📊 My Statistics**
 
 <table width="100%">
   <tr>
