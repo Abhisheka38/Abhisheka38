@@ -49,9 +49,8 @@
 
 ## 🌐 Connect with Me
 
-<div align="center" style="margin-bottom: 30px;">
-  <h2 style="color:#f9d71c; font-weight: normal; margin-bottom: 15px;">🌐 Connect with Me</h2>
-  <p>
+<div align="left" >
+ 
     <a href="https://linkedin.com/in/nuwaniabhisheka" target="_blank" style="margin-right: 10px;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
