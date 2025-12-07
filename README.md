@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=✨+I+love+crafting+beautiful+code+across+the+Full-Stack" alt="Typing SVG" />
-</div>
+
 
 <br/>
 
