@@ -30,8 +30,8 @@
 
 
 ---
-**📊 My Statistics**
 
+<h3 align="center"><strong>📊My Statistics</strong></h3>
 <p align="center">
 <table align="center">
 <tr border="none">
