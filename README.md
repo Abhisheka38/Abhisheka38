@@ -1,43 +1,54 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
-
-
-<br/>
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 <!-- Profile Section with Image and Details Side by Side -->
-<table width="100%">
-  <tr>
-    <!-- Left: Text Section -->
-    <td width="60%" valign="top">
-      <ul>
-        <li>🌱 I’m currently learning <strong>MERN Stack</strong></li>   
-        <li>🎓 I'm an undergraduate at <strong>SLIIT</strong></li>        
-        <li>💬 Ask me about <strong>Full-stack development</strong></li>
-        <li>📫 How to reach me: <strong>nuwaniabhisheka@gmail.com</strong></li>
-        <li>⚡Fun fact: <strong>Call me Abhi</strong></li>
-      </ul>
-    </td>
-    <!-- Right: Image Section -->
-    <td width="45%" align="center" valign="middle">
-      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="280" style="border-radius: 12px;" />
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+      
+- 🌱 I’m currently learning **MERN Stack**
+- 🎓 I'm an undergraduate at **SLIIT**      
+- 💬 Ask me about **Full-stack development**
+- 📫 How to reach me: nuwaniabhisheka@gmail.com
+- ⚡Fun fact: **Call me Abhi**
+  
+</td>
+<td width="50%" align="center">
+  
+<!-- Right: Image Section -->
+<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
     </td>
   </tr>
 </table>
 
-<br/>
+
 
 ---
 **📊 My Statistics**
 
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisheka38&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheka38&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheka38&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhisheka38&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" height="170"/>
-</div>
+  
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Scar1109&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 ---
 
