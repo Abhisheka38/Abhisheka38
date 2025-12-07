@@ -32,18 +32,14 @@
 ---
 **📊 My Statistics**
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=abhisheka38&show_icons=true&theme=radical" alt="abhisheka38's GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisheka38&show_icons=true&locale=en&layout=compact&theme=radical" alt="abhisheka38's Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhisheka38&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhisheka38&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisheka38&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhisheka38&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph" height="170"/>
+</div>
 
 ---
 
