@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nuwani Abhisheka</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-<!-- Profile Section with Image and Details Side by Side -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
       
 - 🌱 I’m currently learning **MERN Stack**
-- 🎓 I'm an undergraduate at **SLIIT**      
+  
+- 🎓 I'm an undergraduate at **SLIIT**
+     
 - 💬 Ask me about **Full-stack development**
+  
 - 📫 How to reach me: nuwaniabhisheka@gmail.com
+  
 - ⚡Fun fact: **Call me Abhi**
   
 </td>
@@ -27,8 +29,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 <h3 align="center"><strong>📊My Statistics</strong></h3>
@@ -36,7 +36,6 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-<div align="center">
   
 <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
   <br></br>
@@ -55,7 +54,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/nuwaniabhisheka" target="_blank">
+  <a href="https://www.linkedin.com/in/nuwani-abhisheka/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/nuwaniabhisheka" target="_blank">
@@ -65,8 +64,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-
-<br/>
 
 ---
 
