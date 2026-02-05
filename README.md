@@ -28,8 +28,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.youtube.com/channel/UCJPRbxNjnavUCE1oKtLjwrQ" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/960px-YouTube_full-color_icon_%282017%29.svg.png" alt="kaveendinethma1109" height="55" width="55" /></a>
-  <img width="1" />
 <a href="https://www.linkedin.com/in/nuwani-abhisheka/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="nuwaniabhisheka" height="50" width="50" /></a>
   <img width="1" />
 <a href="https://www.facebook.com/nuwani.abhisheka" target="blank"><img align="center" src="https://www.vecteezy.com/png/41643208-facebook-logo-png-facebook-icon-transparent-white-background" alt="" height="50" width="50" /></a>
