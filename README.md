@@ -49,8 +49,12 @@
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Kotlin-Light.svg" alt="kotlin" width="50" height="50"/> </a>
 
 <!-- Data Science / ML Tools -->
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Matplotlib.svg" alt="matplotlib" width="50" height="50"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Pandas.svg" alt="pandas" width="50" height="50"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/> 
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> 
+</a>
 <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Anaconda.svg" alt="anaconda" width="50" height="50"/> </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Scikit-Learn.svg" alt="scikit-learn" width="50" height="50"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Tensorflow.svg" alt="tensorflow" width="50" height="50"/> </a>
