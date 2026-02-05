@@ -65,8 +65,9 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="50"/> 
 </a>
-<a href="https://www.sql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQL.svg" alt="sql" width="50" height="50"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> 
+</a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a>
 <!-- Full-stack / Web Tools -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a>
