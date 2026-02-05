@@ -30,7 +30,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nuwani-abhisheka/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="nuwaniabhisheka" height="50" width="50" /></a>
   <img width="1" />
-<a href="https://www.facebook.com/nuwani.abhisheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Facebook.svg" alt="facebook" height="50" width="50" /></a>
+<a href="https://www.facebook.com/nuwani.abhisheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
 
 ---
