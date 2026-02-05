@@ -32,7 +32,7 @@
   <img width="1" />
 <a href="https://www.linkedin.com/in/nuwani-abhisheka/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
   <img width="1" />
-<a href="https://www.facebook.com/nuwani.abhisheka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="https://www.facebook.com/nuwani.abhisheka" target="blank"><img align="center" src="https://www.vecteezy.com/png/41643208-facebook-logo-png-facebook-icon-transparent-white-background" alt="kaveen-dinethma" height="50" width="50" /></a>
 </p>
 
 ---
